@@ -1,7 +1,7 @@
-## Corona Calculations
+# Corona Calculations
 
-# Workflow
-'var.R' depends on some matrix or dataframe as input which is to be stored in the 'Data' directory.
+## Workflow
+*var.R* depends on some matrix or dataframe as input which is to be stored in the *Data* directory.
 One (or multiple) objects are stored in the same environment and bound into a main data table.
 For this object, the following analysis is conducted:
 
